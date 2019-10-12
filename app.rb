@@ -11,6 +11,9 @@ end
 get "/contact" do 
 end
 
+get "/portfolio" do 
+end
+
 
 
 
